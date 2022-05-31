@@ -1,0 +1,5 @@
+--will show only duplicate records, if any
+SELECT title, release_year, language_id, rental_duration, COUNT(*)
+FROM film
+GROUP BY title, release_year, language_id, rental_duration
+Having COUNT (*) >1
