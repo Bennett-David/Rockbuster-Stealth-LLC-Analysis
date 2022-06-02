@@ -24,7 +24,7 @@ The data contains information on the following paramaters:
 - Staff
 
 
-For a data dictionary, click [here.](https://github.com/Bennett-David/Rockbuster-Stealth-LLC-Analysis/blob/2ce2018f767195309e0c18695f9f37fc496a5853/Rockbuster%20Data%20Dictionary.pdf) 
+For a data dictionary, click [here.](https://github.com/Bennett-David/Rockbuster-Stealth-LLC-Analysis/blob/920df6652b13b4812cbe27984d6e5de4c4f355ae/Rockbuster%20Data%20Dictionary.pdf) 
 
 Data source: [Rockbuster Data Source](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) 
 
